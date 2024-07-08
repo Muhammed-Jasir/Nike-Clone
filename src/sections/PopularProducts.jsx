@@ -2,7 +2,7 @@ import React from 'react'
 
 const PopularProducts = () => {
   return (
-    <div>PopularProducts</div>
+    <div></div>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 const SuperQuality = () => {
   return (
-    <div>SuperQuality</div>
+    <div></div>
   )
 }
 
