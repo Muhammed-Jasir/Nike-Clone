@@ -7,7 +7,7 @@ import SuperQuality from "./SuperQuality";
 import SpecialOffer from "./SpecialOffer";
 import CustomerReviews from "./CustomerReviews";
 
-export  {
+export {
     Hero,
     PopularProducts,
     CustomerReviews,
@@ -15,5 +15,5 @@ export  {
     Footer,
     Subscribe,
     SuperQuality,
-    SpecialOffer
-}
+    SpecialOffer,
+};
