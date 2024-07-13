@@ -5,7 +5,7 @@ import { arrowRight } from "../assets/icons";
 
 const SpecialOffer = () => {
     return (
-        <section className="flex justify-center items-center max-xl:flex-col-reverse max-container gap-10">
+        <section className="flex justify-wrap items-center max-xl:flex-col-reverse max-container gap-10">
             <div className="flex-1">
                 <img
                     src={offer}
@@ -29,7 +29,7 @@ const SpecialOffer = () => {
                     unique desires, surpassing the loftiest expectations. Your
                     journey with us nothing short of exceptional.
                 </p>
-                <div className="mt-11 flex gap-4 max-sm:gap-3 flex-wrap">
+                <div className="mt-11 flex gap-4 flex-wrap">
                     <Button label="Shop now" icon={arrowRight} />
                     <Button
                         label="Learn more"
